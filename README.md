@@ -1,8 +1,10 @@
 ### Hi, I’m Güliz 👋 
 
--------------------------------------------
-#### I’m a Senior Backend Developer 🚀 😎
-##### Beginner 🥁 😝 
+--------------------------------------------------------------------------------------
+<a href="https://app.daily.dev/gulizay"><img align="right" src="https://api.daily.dev/devcards/948d3b6b08e14215815f33b94b537e7d.png?r=s29" width="400" alt="Güliz AY's Dev Card"/></a>    
+##### I’m a Senior Backend Developer 🚀 😎 and Beginner 🥁 😝                                                                 
+                                                                              
+--------------------------------------------------------------------------------------
 
 - 👀 I’m interested in coding 💻
 - 🌱 I’m currently learning nodejs
@@ -10,6 +12,7 @@
 - ♥️ I love 🍺 🍕 🎦 
 - 📫 How to reach me gulizay91@gmail.com
 - ⚡ Fun fact: I ❤️ playing 🏀 and 🎮 
+
 
 
 
