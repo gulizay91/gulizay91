@@ -7,7 +7,7 @@
 --------------------------------------------------------------------------------------
 
 - 👀 I’m interested in coding 💻
-- 🌱 I’m currently learning nodejs
+- 🌱 I’m currently learning Go
 - 📚 I’m reading Clean Code (Rober C. Martin)
 - ♥️ I love 🍺 🍕 🎦 
 - 📫 How to reach me gulizay91@gmail.com
